@@ -1,0 +1,24 @@
+{
+  "banned-players": [
+    {
+      "uuid": "45282b5b7b5c40a69256604282c1f69f",
+      "reason": "Creation of redundant issues and Optifine reports."
+    },
+    {
+      "uuid": "f66d2eed323f4956a19e010bdb45a194",
+      "reason": "Creation of redundant issues and Optifine reports."
+    },
+    {
+      "uuid": "ad1ece3bea014caf86efe169322df3f4",
+      "reason": "Creation of redundant issues and Optifine reports."
+    },
+    {
+      "uuid": "0d2e98ec1be544689e97fe4769514d86",
+      "reason": "Creation of redundant issues."
+    },
+    {
+      "uuid": "e44cd80a59c7407d81c78647fa23bc4b",
+      "reason": "Causing drama on our issue tracker."
+    }
+  ]
+}
