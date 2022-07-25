@@ -1,5 +1,5 @@
 {
-  "banned-players": [
+  "banned_players": [
     {
       "uuid": "45282b5b7b5c40a69256604282c1f69f",
       "reason": "Creation of redundant issues and Optifine reports."
